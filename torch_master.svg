@@ -1381,17 +1381,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55874298"
-     inkscape:cx="960.5022"
-     inkscape:cy="707.47436"
+     inkscape:zoom="0.7901819"
+     inkscape:cx="200.4542"
+     inkscape:cy="-309.79581"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-height="745"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1400,7 +1400,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1949,5 +1949,12 @@
          style="font-size:117.17809296000000074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119000000609%;letter-spacing:0px;text-anchor:middle;fill:#ffff00;font-family:Big John;-inkscape-font-specification:Big John;fill-opacity:1"
          dx="0 0 0 2.7667048"
          id="tspan3354">fll</tspan></text>
+    <path
+       style="fill:#00e676;fill-opacity:1;stroke:none"
+       d="M 81.90625 1124.375 C -17.36123 1124.375 -97.84375 1204.8575 -97.84375 1304.125 C -97.84375 1403.3924 -17.36123 1483.8438 81.90625 1483.8438 C 181.17373 1483.8436 261.65625 1403.3924 261.65625 1304.125 C 261.65625 1204.8575 181.17373 1124.375 81.90625 1124.375 z M 64.65625 1137.0938 C 138.90009 1206.0385 167.84375 1248.5704 167.84375 1305.9062 C 167.84375 1344.9147 140.18772 1376.1165 106.3125 1381.0625 C 136.67933 1360.2509 167.85355 1289.1112 91.40625 1222.2188 C 98.408549 1269.7389 72.28125 1308.2188 72.28125 1308.2188 C 72.28125 1308.2188 71.849477 1286.2395 53.15625 1270 C 45.374702 1301.9347 30.40625 1310.7301 30.40625 1340.125 C 30.40625 1355.6724 43.788376 1372.1674 53.71875 1379.875 C 20.049492 1368.2106 -4.15625 1344.127 -4.15625 1306.5 C -4.15625 1277.8327 33.84375 1216.125 33.84375 1216.125 C 33.84375 1216.125 46.051788 1235.2745 52.1875 1238.4062 C 61.163892 1225.1055 63.701037 1153.9504 64.65625 1137.0938 z M 54 1393.125 C 141.27156 1392.904 229.9375 1400.5312 229.9375 1400.5312 C 191.16692 1403.7006 27.204764 1402.9025 22.875 1411.5 C 18.545238 1420.0975 17.268146 1441.1875 29.3125 1464.9375 C 29.3125 1464.9375 -7.0577548 1431.4068 -17 1395.5 C 5.2369429 1393.8665 29.563962 1393.1869 54 1393.125 z "
+       id="path3360"
+       inkscape:export-filename="/home/ta/git/teamtorch5942.github.io/img/torch2.png"
+       inkscape:export-xdpi="75.099998"
+       inkscape:export-ydpi="75.099998" />
   </g>
 </svg>
