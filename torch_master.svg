@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="750"
+   height="1000"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -228,7 +228,8 @@
          k4="-2"
          k1="-1"
          k2="3.2"
-         operator="arithmetic" />
+         operator="arithmetic"
+         k3="0" />
       <feColorMatrix
          id="feColorMatrix18375"
          result="result2"
@@ -263,7 +264,8 @@
          k4="-2"
          k1="-1"
          k2="3.2"
-         operator="arithmetic" />
+         operator="arithmetic"
+         k3="0" />
       <feColorMatrix
          id="feColorMatrix18387"
          result="result2"
@@ -649,7 +651,8 @@
          k4="-2"
          k1="-1"
          k2="3.2"
-         operator="arithmetic" />
+         operator="arithmetic"
+         k3="0" />
       <feColorMatrix
          id="feColorMatrix18375-8"
          result="result2"
@@ -684,7 +687,8 @@
          k4="-2"
          k1="-1"
          k2="3.2"
-         operator="arithmetic" />
+         operator="arithmetic"
+         k3="0" />
       <feColorMatrix
          id="feColorMatrix18387-2"
          result="result2"
@@ -889,7 +893,8 @@
          k4="-2"
          result="result3"
          in2="result1"
-         id="feComposite18385-9" />
+         id="feComposite18385-9"
+         k3="0" />
       <feColorMatrix
          values="0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
          result="result2"
@@ -924,7 +929,8 @@
          k4="-2"
          result="result3"
          in2="result1"
-         id="feComposite18373-6" />
+         id="feComposite18373-6"
+         k3="0" />
       <feColorMatrix
          values="0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
          result="result2"
@@ -1140,7 +1146,8 @@
          k4="-2"
          result="result3"
          in2="result1"
-         id="feComposite18385-7" />
+         id="feComposite18385-7"
+         k3="0" />
       <feColorMatrix
          values="0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
          result="result2"
@@ -1175,7 +1182,8 @@
          k4="-2"
          result="result3"
          in2="result1"
-         id="feComposite18373-7" />
+         id="feComposite18373-7"
+         k3="0" />
       <feColorMatrix
          values="0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
          result="result2"
@@ -1395,20 +1403,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28032174"
-     inkscape:cx="157.5447"
-     inkscape:cy="306.43133"
+     inkscape:zoom="0.39643481"
+     inkscape:cx="488.07492"
+     inkscape:cy="786.29224"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1318"
-     inkscape:window-height="694"
-     inkscape:window-x="24"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
-       id="grid3323" />
+       id="grid3323"
+       empspacing="50"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1418,55 +1431,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:#000000;fill-opacity:1;stroke:none"
-     id="rect7275"
-     width="445.75998"
-     height="445.75998"
-     x="-0.97156316"
-     y="1281.2352"
-     inkscape:export-filename="/home/ta/Downloads/thing.png"
-     inkscape:export-xdpi="181.71001"
-     inkscape:export-ydpi="181.71001" />
-  <g
-     id="g7271"
-     transform="matrix(1.1114054,0,0,1.1114054,-622.75962,-865.80369)"
-     style="fill:#ffffff">
-    <path
-       d="m 920,2132.3623 a 160,160 0 1 1 -320,0 160,160 0 1 1 320,0 z"
-       sodipodi:ry="160"
-       sodipodi:rx="160"
-       sodipodi:cy="2132.3623"
-       sodipodi:cx="760"
-       id="path7256"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
-    <path
-       clip-path="url(#clipPath7266)"
-       transform="matrix(1.3581633,0,0,1.3581633,-272.20403,-763.73369)"
-       d="m 834.19502,2188.0083 27.70404,116.4487 -88.78295,-80.2832 -62.75192,101.9313 -6.01022,-119.5478 -116.44866,27.7041 80.28321,-88.783 -101.93136,-62.7519 119.54782,-6.0102 -27.70404,-116.4487 88.78295,80.2832 62.75192,-101.9313 6.01022,119.5478 116.44866,-27.7041 -80.28321,88.783 101.93136,62.7519 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="false"
-       sodipodi:arg2="1.0361982"
-       sodipodi:arg1="0.6434991"
-       sodipodi:r2="200"
-       sodipodi:r1="92.743629"
-       sodipodi:cy="2132.3623"
-       sodipodi:cx="760"
-       sodipodi:sides="8"
-       id="path7258"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       sodipodi:type="star" />
-  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-52.362183)">
     <text
        sodipodi:linespacing="125%"
        id="text2998-3"
@@ -1577,85 +1550,81 @@
          x="1461.4309"
          id="tspan3148"
          sodipodi:role="line" /></text>
-    <g
-       id="g4020"
-       transform="translate(-2152.0761,1141.4125)">
-      <text
-         xml:space="preserve"
-         style="font-size:20.71758461px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="1083.0273"
-         y="-577.86646"
-         id="text3140"
-         sodipodi:linespacing="80.000001%"><tspan
-           sodipodi:role="line"
-           id="tspan3142"
-           x="1083.0273"
-           y="-577.86646"
-           style="font-size:74.58330536px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;text-anchor:start;font-family:Big John;-inkscape-font-specification:Big John">Team</tspan><tspan
-           sodipodi:role="line"
-           x="1083.0273"
-           y="-518.19983"
-           style="font-size:74.58330536px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;text-anchor:start;font-family:Big John;-inkscape-font-specification:Big John"
-           id="tspan3246">Torch </tspan><tspan
-           sodipodi:role="line"
-           x="1083.0273"
-           y="-477.17899"
-           style="font-size:37.29165268px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;text-anchor:start;fill:#666666;font-family:Big John;-inkscape-font-specification:Big John"
-           id="tspan3144"
-           dx="0 1.7609946"> Robotics</tspan><tspan
-           sodipodi:role="line"
-           x="1083.0273"
-           y="-447.34567"
-           style="font-size:37.29165268px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;text-anchor:start;font-family:Big John;-inkscape-font-specification:Big John"
-           dx="1.7609946"
-           id="tspan3150" /></text>
-      <path
-         sodipodi:nodetypes="cccscsccccsc"
-         style="fill:#00e677;fill-opacity:1;display:inline;enable-background:new"
-         inkscape:connector-curvature="0"
-         d="m 958.25489,-339.56629 c -0.77023,13.59238 -2.81239,70.96567 -10.05049,81.69077 -4.94753,-2.52536 -14.79913,-17.9566 -14.79913,-17.9566 0,0 -30.64087,49.74075 -30.64087,72.85658 0,30.34052 19.52045,49.75566 46.66963,59.1613 -8.00735,-6.21504 -18.78251,-19.50466 -18.78251,-32.04127 0,-23.70259 12.07068,-30.80694 18.34532,-56.55739 15.07327,13.09464 15.41078,30.82285 15.41078,30.82285 0,0 21.05719,-31.03168 15.41089,-69.34962 61.64319,53.93874 36.51159,111.32262 12.02531,128.10405 27.31528,-3.98821 49.61788,-29.1669 49.61788,-60.62127 0,-46.23276 -23.3404,-80.5157 -83.20681,-136.1094 z"
-         id="path3236" />
-      <text
-         sodipodi:linespacing="80.000001%"
-         id="text3238"
-         y="-221.83505"
-         x="1045.7834"
-         style="font-size:20.71758461px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:74.58330536px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;font-family:Big John;-inkscape-font-specification:Big John"
-           y="-221.83505"
-           x="1045.7834"
-           id="tspan3240"
-           sodipodi:role="line">Team Torch </tspan><tspan
-           dx="0 1.7609946"
-           id="tspan3242"
-           style="font-size:37.29165268px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;fill:#666666;font-family:Big John;-inkscape-font-specification:Big John"
-           y="-180.81424"
-           x="1045.7834"
-           sodipodi:role="line"> Robotics</tspan><tspan
-           id="tspan3244"
-           dx="1.7609946"
-           style="font-size:37.29165268px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;font-family:Big John;-inkscape-font-specification:Big John"
-           y="-150.98091"
-           x="1045.7834"
-           sodipodi:role="line" /></text>
-      <path
-         sodipodi:nodetypes="cccscsccccsc"
-         style="fill:#00e677;fill-opacity:1"
-         inkscape:connector-curvature="0"
-         d="m 966.16584,-670.76396 c -0.77023,13.59238 -2.81239,70.96568 -10.05049,81.69078 -4.94753,-2.52536 -14.79913,-17.95661 -14.79913,-17.95661 0,0 -30.64087,49.74075 -30.64087,72.85658 0,30.34052 19.52045,49.75566 46.66963,59.16131 -8.00735,-6.21504 -18.78251,-19.50467 -18.78251,-32.04128 0,-23.70259 12.07068,-30.80693 18.34532,-56.55739 15.07327,13.09464 15.41078,30.82285 15.41078,30.82285 0,0 21.05719,-31.03168 15.41089,-69.34962 61.64324,53.93874 36.51154,111.32262 12.02531,128.10406 27.31523,-3.98821 49.61793,-29.16691 49.61793,-60.62128 0,-46.23275 -23.3404,-80.51569 -83.20686,-136.1094 z"
-         id="path3248" />
-      <path
-         sodipodi:nodetypes="cczcc"
-         inkscape:connector-curvature="0"
-         id="path3250"
-         d="m 903.67067,-462.40486 c 8.01692,28.95343 37.33291,56.00214 37.33291,56.00214 -9.71196,-19.15086 -8.66981,-36.16349 -5.17851,-43.09607 3.4913,-6.93259 135.71333,-6.28655 166.97603,-8.84216 0,0 -117.16133,-10.08527 -199.13043,-4.06391 z"
-         style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
-    </g>
+    <text
+       sodipodi:linespacing="80.000001%"
+       id="text3140"
+       y="563.54602"
+       x="-1069.0487"
+       style="font-size:20.71758461px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:74.58330536px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;text-anchor:start;font-family:Big John;-inkscape-font-specification:Big John"
+         y="563.54602"
+         x="-1069.0487"
+         id="tspan3142"
+         sodipodi:role="line">Team</tspan><tspan
+         id="tspan3246"
+         style="font-size:74.58330536px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;text-anchor:start;font-family:Big John;-inkscape-font-specification:Big John"
+         y="623.21265"
+         x="-1069.0487"
+         sodipodi:role="line">Torch </tspan><tspan
+         dx="0 1.7609946"
+         id="tspan3144"
+         style="font-size:37.29165268px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;text-anchor:start;fill:#666666;font-family:Big John;-inkscape-font-specification:Big John"
+         y="664.23352"
+         x="-1069.0487"
+         sodipodi:role="line"> Robotics</tspan><tspan
+         id="tspan3150"
+         dx="1.7609946"
+         style="font-size:37.29165268px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;text-anchor:start;font-family:Big John;-inkscape-font-specification:Big John"
+         y="694.06683"
+         x="-1069.0487"
+         sodipodi:role="line" /></text>
+    <path
+       id="path3236"
+       d="m -1188.0569,827.08117 c -0.5726,10.10535 -2.0909,52.75991 -7.4721,60.73356 -3.6783,-1.8775 -11.0025,-13.34996 -11.0025,-13.34996 0,0 -22.7802,36.9801 -22.7802,54.16572 0,22.55687 14.5126,36.99118 34.6968,43.98386 -5.953,-4.62061 -13.9639,-14.50087 -13.9639,-23.8213 0,-17.62185 8.974,-22.90362 13.6389,-42.04797 11.2064,9.7353 11.4572,22.91546 11.4572,22.91546 0,0 15.6552,-23.07072 11.4574,-51.55844 45.8291,40.10111 27.1448,82.76354 8.9403,95.23982 20.3078,-2.96506 36.8888,-21.68433 36.8888,-45.0693 0,-34.37205 -17.3527,-59.85993 -61.8607,-101.19145 z"
+       inkscape:connector-curvature="0"
+       style="fill:#00e677;fill-opacity:1;display:inline;enable-background:new"
+       sodipodi:nodetypes="cccscsccccsc" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.40262794px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1122.9832"
+       y="914.60925"
+       id="text3238"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan3240"
+         x="-1122.9832"
+         y="914.60925"
+         style="font-size:55.44945908px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;font-family:Big John;-inkscape-font-specification:Big John">Team Torch </tspan><tspan
+         sodipodi:role="line"
+         x="-1122.9832"
+         y="945.10645"
+         style="font-size:27.72472954px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;fill:#666666;font-family:Big John;-inkscape-font-specification:Big John"
+         id="tspan3242"
+         dx="0 1.3092233"> Robotics</tspan><tspan
+         sodipodi:role="line"
+         x="-1122.9832"
+         y="967.28625"
+         style="font-size:27.72472954px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;font-family:Big John;-inkscape-font-specification:Big John"
+         dx="1.3092233"
+         id="tspan3244" /></text>
+    <path
+       id="path3248"
+       d="m -1185.9103,470.64854 c -0.7702,13.59238 -2.8124,70.96568 -10.0505,81.69078 -4.9475,-2.52536 -14.7991,-17.95661 -14.7991,-17.95661 0,0 -30.6409,49.74075 -30.6409,72.85658 0,30.34052 19.5205,49.75566 46.6697,59.16131 -8.0074,-6.21504 -18.7825,-19.50467 -18.7825,-32.04128 0,-23.70259 12.0706,-30.80693 18.3453,-56.55739 15.0733,13.09464 15.4108,30.82285 15.4108,30.82285 0,0 21.0572,-31.03168 15.4109,-69.34962 61.6432,53.93874 36.5115,111.32262 12.0253,128.10406 27.3152,-3.98821 49.6179,-29.16691 49.6179,-60.62128 0,-46.23275 -23.3404,-80.51569 -83.2069,-136.1094 z"
+       inkscape:connector-curvature="0"
+       style="fill:#00e677;fill-opacity:1"
+       sodipodi:nodetypes="cccscsccccsc" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       d="m -1248.4054,679.00764 c 8.0169,28.95343 37.3329,56.00214 37.3329,56.00214 -9.712,-19.15086 -8.6698,-36.16349 -5.1785,-43.09607 3.4913,-6.93259 135.7133,-6.28655 166.976,-8.84216 0,0 -117.1613,-10.08527 -199.1304,-4.06391 z"
+       id="path3250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczcc" />
     <rect
        id="rect3939"
-       height="1055.1436"
-       width="744.09448"
+       height="1052.3622"
+       width="750"
        y="-1.5536574e-06"
        x="-5.0686249e-06"
        style="fill:#000000;display:inline" />
@@ -1763,7 +1732,7 @@
     </g>
     <g
        id="g3986"
-       transform="matrix(1.2401575,0,0,1.2401574,-176.96567,-259.03113)">
+       transform="matrix(1.3333333,0,0,1.3333341,-222.88471,-333.66692)">
       <rect
          id="rect4153-4-7"
          height="300"
@@ -1962,7 +1931,7 @@
        width="372.04724"
        y="658.09161"
        x="1155.8848"
-       style="fill:#800080;display:inline;fill-opacity:1" />
+       style="fill:#800080;fill-opacity:1;display:inline" />
     <path
        sodipodi:type="arc"
        style="fill:#800080;fill-opacity:1;stroke:none"
@@ -1971,10 +1940,10 @@
        sodipodi:cy="75.149109"
        sodipodi:rx="103.77734"
        sodipodi:ry="103.77734"
-       d="m 119.88072,75.149109 a 103.77734,103.77734 0 1 1 -207.554684,0 103.77734,103.77734 0 1 1 207.554684,0 z"
+       d="m 119.88072,75.149109 c 0,57.314641 -46.462695,103.777341 -103.77734,103.777341 -57.314644,0 -103.777344,-46.4627 -103.777344,-103.777341 0,-57.314644 46.4627,-103.777344 103.777344,-103.777344 57.314645,0 103.77734,46.4627 103.77734,103.777344 z"
        transform="matrix(1.6466114,0,0,1.6466113,1315.3924,720.3738)" />
     <g
-       style="fill:#ffff00;display:inline;enable-background:new;fill-opacity:1"
+       style="fill:#ffff00;fill-opacity:1;display:inline;enable-background:new"
        id="g3336"
        transform="matrix(2.0296382,0,0,2.029638,1239.2936,664.81418)">
       <path
@@ -1997,7 +1966,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:32.54946899000000116px;font-style:normal;font-weight:normal;line-height:80.00000119000000609%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:32.54946899px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
        x="985.28064"
        y="434.42404"
        id="text3350"
@@ -2005,44 +1974,17 @@
          sodipodi:role="line"
          x="985.28064"
          y="434.42404"
-         style="font-size:117.17809296000000074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119000000609%;letter-spacing:0px;text-anchor:middle;fill:#ffff00;font-family:Big John;-inkscape-font-specification:Big John;fill-opacity:1"
+         style="font-size:117.17809296px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;letter-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;font-family:Big John;-inkscape-font-specification:Big John"
          dx="0 0 0 2.7667048"
          id="tspan3354">fll</tspan></text>
     <path
        style="fill:#00e676;fill-opacity:1;stroke:none"
-       d="m 745.46555,1120.7581 c -99.26748,0 -179.75,80.4825 -179.75,179.75 0,99.2674 80.48252,179.7188 179.75,179.7188 99.26748,-2e-4 179.75,-80.4514 179.75,-179.7188 0,-99.2675 -80.48252,-179.75 -179.75,-179.75 z m -17.25,12.7188 c 74.24384,68.9447 103.1875,111.4766 103.1875,168.8124 0,39.0085 -27.65603,70.2103 -61.53125,75.1563 30.36683,-20.8116 61.54105,-91.9513 -14.90625,-158.8437 7.0023,47.5201 -19.125,86 -19.125,86 0,0 -0.43178,-21.9793 -19.125,-38.2188 -7.78155,31.9347 -22.75,40.7301 -22.75,70.125 0,15.5474 13.38212,32.0424 23.3125,39.75 -33.66926,-11.6644 -57.875,-35.748 -57.875,-73.375 0,-28.6673 38,-90.375 38,-90.375 0,0 12.20803,19.1495 18.34375,22.2812 8.97639,-13.3007 11.51353,-84.4558 12.46875,-101.3124 z m -10.65625,256.0312 c 87.27156,-0.221 175.9375,7.4062 175.9375,7.4062 -38.77058,3.1694 -202.73274,2.3713 -207.0625,10.9688 -4.32976,8.5975 -5.60686,29.6875 6.4375,53.4375 0,0 -36.37026,-33.5307 -46.3125,-69.4375 22.23694,-1.6335 46.56396,-2.3131 71,-2.375 z"
+       d="m 800,1202.4056 c -138.06325,0 -250,111.9367 -250,250 0,138.0631 111.93675,249.9566 250,249.9566 138.06325,-3e-4 250,-111.8935 250,-249.9566 0,-138.0633 -111.93675,-250 -250,-250 z m -23.99166,17.6896 c 103.25987,95.8897 143.5153,155.0439 143.5153,234.7877 0,54.2538 -38.46457,97.65 -85.57893,104.529 42.23482,-28.9452 85.59256,-127.8878 -20.73191,-220.9231 9.73894,66.0919 -26.59945,119.6105 -26.59945,119.6105 0,0 -0.60053,-30.5692 -26.59944,-53.1555 -10.82274,44.4155 -31.64117,56.6483 -31.64117,97.5313 0,21.6237 18.61213,44.5653 32.4235,55.2852 -46.8279,-16.2231 -80.49374,-49.7191 -80.49374,-102.0515 0,-39.8711 52.85119,-125.6954 52.85119,-125.6954 0,0 16.97918,26.6335 25.51286,30.9891 12.48455,-18.4989 16.01326,-117.4628 17.34179,-140.9073 z m -14.82093,356.0934 c 121.37909,-0.3073 244.69749,10.3007 244.69749,10.3007 -53.92291,4.4081 -281.96486,3.2981 -287.98678,15.2557 -6.02192,11.9575 -7.79813,41.2899 8.95341,74.3219 0,0 -50.58451,-46.6352 -64.41238,-96.5751 30.9276,-2.2719 64.76212,-3.2171 98.74826,-3.3032 z"
        id="path3360"
        inkscape:export-filename="/home/ta/git/teamtorch5942.github.io/img/torch2.png"
        inkscape:export-xdpi="75.099998"
        inkscape:export-ydpi="75.099998"
        inkscape:connector-curvature="0" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ab47bc;fill-opacity:1;stroke:none"
-       id="path3331"
-       sodipodi:cx="16.10338"
-       sodipodi:cy="75.149109"
-       sodipodi:rx="103.77734"
-       sodipodi:ry="103.77734"
-       d="m 119.88072,75.149109 a 103.77734,103.77734 0 1 1 -207.554684,0 103.77734,103.77734 0 1 1 207.554684,0 z"
-       transform="matrix(1.6466114,0,0,1.6466113,195.39242,1380.3738)" />
-    <g
-       style="fill:#000000;display:inline;enable-background:new"
-       id="g3333"
-       transform="matrix(1.8578612,0,0,1.857861,130.05759,1325.854)">
-      <path
-         id="path3335"
-         d="M 42.055149,6.0532867 C 41.584517,14.358556 40.336711,49.415015 35.914055,55.968306 32.890998,54.42525 26.871436,44.99639 26.871436,44.99639 c 0,0 -18.7223051,30.392788 -18.7223051,44.517115 0,18.538785 11.9274621,30.401895 28.5162601,36.148975 -4.892682,-3.79754 -11.476563,-11.91782 -11.476563,-19.57799 0,-14.482846 7.375472,-18.823773 11.20943,-34.557919 9.210128,8.001139 9.416356,18.833503 9.416356,18.833503 0,0 12.866444,-18.961102 9.416421,-42.37428 37.665481,32.957862 22.309451,68.020786 7.347752,78.274646 16.690275,-2.43689 30.317729,-17.82168 30.317729,-37.041053 0,-28.24932 -14.261528,-49.197016 -50.841367,-83.1661003 z"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1"
-         sodipodi:nodetypes="cccscsccccsc" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         d="m 1.825953,133.36568 c 4.8985308,17.69124 22.811299,34.21865 22.811299,34.21865 -5.934237,-11.70163 -5.297459,-22.09676 -3.164191,-26.33273 2.133269,-4.23598 82.924119,-3.84123 102.026329,-5.40277 0,0 -71.588355,-6.16234 -121.673437,-2.48315 z"
-         id="path3337"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cczcc" />
-    </g>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avenir;-inkscape-font-specification:Avenir"
@@ -2128,21 +2070,307 @@
          id="tspan7330"
          x="1019.0831"
          y="1281.9081">one-piece logo for general use</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3370"
+       width="550"
+       height="200"
+       x="-1250"
+       y="750"
+       transform="translate(0,52.362183)" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="75.099998"
+       inkscape:export-xdpi="75.099998"
+       inkscape:export-filename="/home/ta/git/teamtorch5942.github.io/img/torch2.png"
+       id="path4152"
+       d="m -1165.5767,1136.705 c -36.6048,0 -66.2826,29.6778 -66.2826,66.2826 0,36.6046 29.6778,66.271 66.2826,66.271 36.6047,-10e-5 66.2825,-29.6664 66.2825,-66.271 0,-36.6048 -29.6778,-66.2826 -66.2825,-66.2826 z m -6.3609,4.6901 c 27.3772,25.4232 38.0502,41.1068 38.0502,62.2492 0,14.3844 -10.1981,25.89 -22.6896,27.7139 11.1978,-7.6743 22.6932,-33.907 -5.4967,-58.5735 2.5821,17.523 -7.0522,31.7124 -7.0522,31.7124 0,0 -0.1592,-8.1048 -7.0523,-14.0932 -2.8695,11.7759 -8.3891,15.0193 -8.3891,25.8586 0,5.7331 4.9346,11.8156 8.5964,14.6577 -12.4154,-4.3012 -21.3412,-13.1819 -21.3412,-27.0569 0,-10.571 14.0124,-33.3256 14.0124,-33.3256 0,0 4.5017,7.0613 6.7642,8.2161 3.3101,-4.9046 4.2456,-31.1429 4.5979,-37.3587 z m -3.9295,94.411 c 32.1813,-0.081 64.8767,2.7311 64.8767,2.7311 -14.2966,1.1687 -74.7574,0.8744 -76.354,4.0448 -1.5966,3.1703 -2.0675,10.9471 2.3738,19.7049 0,0 -13.4115,-12.3644 -17.0777,-25.6049 8.1998,-0.6024 17.1705,-0.853 26.1812,-0.8759 z"
+       style="fill:#00e676;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="80.000001%"
+       id="text4156"
+       y="1209.7274"
+       x="-1084"
+       style="font-size:13.64821911px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:49.13358688px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;font-family:Big John;-inkscape-font-specification:Big John"
+         y="1209.7274"
+         x="-1084"
+         id="tspan4158"
+         sodipodi:role="line">Team Torch </tspan><tspan
+         dx="0 1.1600986"
+         id="tspan4160"
+         style="font-size:24.56679344px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;fill:#666666;font-family:Big John;-inkscape-font-specification:Big John"
+         y="1236.7509"
+         x="-1084"
+         sodipodi:role="line"> Robotics</tspan><tspan
+         id="tspan4162"
+         dx="1.1600986"
+         style="font-size:24.56679344px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;font-family:Big John;-inkscape-font-specification:Big John"
+         y="1256.4043"
+         x="-1084"
+         sodipodi:role="line" /></text>
+    <rect
+       y="1102.3622"
+       x="-1250"
+       height="200"
+       width="550"
+       id="rect4164"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:#00e676;fill-opacity:1;stroke:none"
+       d="m -1453.5069,1052.6079 c -36.6048,0 -66.2826,29.6778 -66.2826,66.2826 0,36.6046 29.6778,66.271 66.2826,66.271 36.6047,-10e-5 66.2825,-29.6664 66.2825,-66.271 0,-36.6048 -29.6778,-66.2826 -66.2825,-66.2826 z m -6.3609,4.6901 c 27.3772,25.4232 38.0502,41.1068 38.0502,62.2492 0,14.3844 -10.1981,25.8901 -22.6896,27.7139 11.1978,-7.6742 22.6932,-33.907 -5.4967,-58.5735 2.5821,17.523 -7.0522,31.7124 -7.0522,31.7124 0,0 -0.1592,-8.1048 -7.0523,-14.0932 -2.8695,11.7759 -8.3891,15.0193 -8.3891,25.8586 0,5.7331 4.9346,11.8156 8.5963,14.6577 -12.4154,-4.3012 -21.3412,-13.1819 -21.3412,-27.0569 0,-10.571 14.0124,-33.3256 14.0124,-33.3256 0,0 4.5018,7.0613 6.7643,8.2161 3.31,-4.9046 4.2456,-31.1429 4.5979,-37.3587 z m -3.9295,94.4111 c 32.1813,-0.081 64.8767,2.7311 64.8767,2.7311 -14.2966,1.1686 -74.7574,0.8743 -76.354,4.0447 -1.5966,3.1703 -2.0675,10.9471 2.3738,19.7049 0,0 -13.4115,-12.3644 -17.0777,-25.6049 8.1998,-0.6024 17.1705,-0.853 26.1812,-0.8759 z"
+       id="path4166"
+       inkscape:export-filename="/home/ta/git/teamtorch5942.github.io/img/torch2.png"
+       inkscape:export-xdpi="75.099998"
+       inkscape:export-ydpi="75.099998"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.64821911px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1200.4614"
+       y="1460.2526"
+       id="text4168"
+       sodipodi:linespacing="80.000001%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4170"
+         x="1200.4614"
+         y="1460.2526"
+         style="font-size:49.13358688px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;font-family:Big John;-inkscape-font-specification:Big John">Team Torch </tspan><tspan
+         sodipodi:role="line"
+         x="1200.4614"
+         y="1487.276"
+         style="font-size:24.56679344px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;fill:#666666;font-family:Big John;-inkscape-font-specification:Big John"
+         id="tspan4172"
+         dx="0 1.1600986"> Robotics</tspan><tspan
+         sodipodi:role="line"
+         x="1200.4614"
+         y="1506.9294"
+         style="font-size:24.56679344px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;font-family:Big John;-inkscape-font-specification:Big John"
+         dx="1.1600986"
+         id="tspan4174" /></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4176"
+       width="550"
+       height="200"
+       x="1034.4614"
+       y="1352.8873"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avenir;-inkscape-font-specification:Avenir"
+       x="-672.44165"
+       y="-208.6888"
+       id="text4178"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4180"
+         x="-672.44165"
+         y="-208.6888"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Big John;-inkscape-font-specification:Big John">GUIDELINES</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-181.97005"
+         id="tspan4184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Team font is Big John. </tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-159.47005"
+         id="tspan4182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">When possible, use Devil Breeze font for team numbers.</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-136.97005"
+         id="tspan4186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Download from behance / dafont.com.</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-114.47005"
+         id="tspan4188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Team Colors:</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-91.970047"
+         id="tspan4190"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Green #00e676</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-69.470047"
+         id="tspan4194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Black  #000000</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-46.970047"
+         id="tspan4196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">White #ffffff</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-24.470047"
+         id="tspan4192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold" /><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="-1.970047"
+         id="tspan4198"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Text should always be White/Green on black or black on white. </tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="20.529953"
+         id="tspan4226"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Never green on white or white on green.</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="43.029953"
+         id="tspan4232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold" /><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="65.529953"
+         id="tspan4234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Use Big John on headlines and Shirts and whatever.</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="88.029953"
+         id="tspan4236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Use a sans-serif font as body text. The actual one doesn't matter,</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="110.52995"
+         id="tspan4238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold" /><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="133.02995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold"
+         id="tspan4240">but use Dosis if you want to be fancy.</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="155.52995"
+         id="tspan4202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold" /><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="178.02995"
+         id="tspan4204"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Shirts and web should have black backgrounds.</tspan><tspan
+         sodipodi:role="line"
+         x="-672.44165"
+         y="200.52995"
+         id="tspan4218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Banners and prints/handouts should be white.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Coolvetica;-inkscape-font-specification:Coolvetica"
+       x="290.08554"
+       y="-256.19647"
+       id="text4242"
+       sodipodi:linespacing="125%"
+       transform="translate(0,52.362183)"><tspan
+         sodipodi:role="line"
+         id="tspan4244"
+         x="290.08554"
+         y="-256.19647" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Coolvetica;-inkscape-font-specification:Coolvetica"
+       x="383.41739"
+       y="-198.17935"
+       id="text4246"
+       sodipodi:linespacing="125%"
+       transform="translate(0,52.362183)"><tspan
+         sodipodi:role="line"
+         id="tspan4248"
+         x="383.41739"
+         y="-198.17935" /></text>
   </g>
   <g
-     id="g7286"
-     transform="matrix(0.88885816,0,0,1.2829961,18.700701,-478.31698)">
+     id="g3357"
+     transform="matrix(0.8973439,0,0,0.8973439,0.87182628,147.27826)">
+    <rect
+       inkscape:export-ydpi="181.71001"
+       inkscape:export-xdpi="181.71001"
+       inkscape:export-filename="/home/ta/Downloads/thing.png"
+       y="1228.873"
+       x="-0.97156316"
+       height="445.75998"
+       width="445.75998"
+       id="rect7275"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       style="fill:#ffffff"
+       transform="matrix(1.1114054,0,0,1.1114054,-622.75962,-918.16587)"
+       id="g7271">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path7256"
+         sodipodi:cx="760"
+         sodipodi:cy="2132.3623"
+         sodipodi:rx="160"
+         sodipodi:ry="160"
+         d="m 920,2132.3623 c 0,88.3656 -71.63444,160 -160,160 -88.36556,0 -160,-71.6344 -160,-160 0,-88.3656 71.63444,-160 160,-160 88.36556,0 160,71.6344 160,160 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path7258"
+         sodipodi:sides="8"
+         sodipodi:cx="760"
+         sodipodi:cy="2132.3623"
+         sodipodi:r1="92.743629"
+         sodipodi:r2="200"
+         sodipodi:arg1="0.6434991"
+         sodipodi:arg2="1.0361982"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 834.19502,2188.0083 27.70404,116.4487 -88.78295,-80.2832 -62.75192,101.9313 -6.01022,-119.5478 -116.44866,27.7041 80.28321,-88.783 -101.93136,-62.7519 119.54782,-6.0102 -27.70404,-116.4487 88.78295,80.2832 62.75192,-101.9313 6.01022,119.5478 116.44866,-27.7041 -80.28321,88.783 101.93136,62.7519 z"
+         transform="matrix(1.3581633,0,0,1.3581633,-272.20403,-763.73369)"
+         clip-path="url(#clipPath7266)" />
+    </g>
     <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="rect7277"
-       d="m 209,1597.3622 32,0 -6,10 -20,0 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="cccccc"
-       inkscape:connector-curvature="0"
-       id="rect7282"
-       d="m 215,1611.3622 20,0 5,46 -15,15 -15,-15 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       transform="matrix(1.6466114,0,0,1.6466113,195.39242,1328.0116)"
+       d="m 119.88072,75.149109 c 0,57.314641 -46.462695,103.777341 -103.77734,103.777341 -57.314644,0 -103.777344,-46.4627 -103.777344,-103.777341 0,-57.314644 46.4627,-103.777344 103.777344,-103.777344 57.314645,0 103.77734,46.4627 103.77734,103.777344 z"
+       sodipodi:ry="103.77734"
+       sodipodi:rx="103.77734"
+       sodipodi:cy="75.149109"
+       sodipodi:cx="16.10338"
+       id="path3331"
+       style="fill:#ab47bc;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <g
+       transform="matrix(1.8578612,0,0,1.857861,130.05759,1273.4918)"
+       id="g3333"
+       style="fill:#000000;display:inline;enable-background:new">
+      <path
+         sodipodi:nodetypes="cccscsccccsc"
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="M 42.055149,6.0532867 C 41.584517,14.358556 40.336711,49.415015 35.914055,55.968306 32.890998,54.42525 26.871436,44.99639 26.871436,44.99639 c 0,0 -18.7223051,30.392788 -18.7223051,44.517115 0,18.538785 11.9274621,30.401895 28.5162601,36.148975 -4.892682,-3.79754 -11.476563,-11.91782 -11.476563,-19.57799 0,-14.482846 7.375472,-18.823773 11.20943,-34.557919 9.210128,8.001139 9.416356,18.833503 9.416356,18.833503 0,0 12.866444,-18.961102 9.416421,-42.37428 37.665481,32.957862 22.309451,68.020786 7.347752,78.274646 16.690275,-2.43689 30.317729,-17.82168 30.317729,-37.041053 0,-28.24932 -14.261528,-49.197016 -50.841367,-83.1661003 z"
+         id="path3335" />
+      <path
+         sodipodi:nodetypes="cczcc"
+         inkscape:connector-curvature="0"
+         id="path3337"
+         d="m 1.825953,133.36568 c 4.8985308,17.69124 22.811299,34.21865 22.811299,34.21865 -5.934237,-11.70163 -5.297459,-22.09676 -3.164191,-26.33273 2.133269,-4.23598 82.924119,-3.84123 102.026329,-5.40277 0,0 -71.588355,-6.16234 -121.673437,-2.48315 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.88885816,0,0,1.2829961,18.700701,-530.67916)"
+       id="g7286">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 209,1597.3622 32,0 -6,10 -20,0 z"
+         id="rect7277"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 215,1611.3622 20,0 5,46 -15,15 -15,-15 z"
+         id="rect7282"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+    </g>
   </g>
 </svg>
