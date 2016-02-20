@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="250"
+   viewBox="0 0 400 250"
+   id="svg4783"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="banner_h.svg">
+  <defs
+     id="defs4785" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="111.03986"
+     inkscape:cy="187.6839"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4788">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-802.36216)">
+    <rect
+       y="802.36218"
+       x="0"
+       height="250"
+       width="400"
+       id="rect4164"
+       style="fill:#ffffff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="80.000001%"
+       id="text4156"
+       y="911.12573"
+       x="181.28198"
+       style="font-style:normal;font-weight:normal;font-size:15.05882931px;line-height:80.00000119%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.21178436px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';letter-spacing:0px"
+         y="911.12573"
+         x="181.28198"
+         id="tspan4158"
+         sodipodi:role="line">Team </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.21178436px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';letter-spacing:0px"
+         y="954.49512"
+         x="181.28198"
+         sodipodi:role="line"
+         id="tspan4555">Torch </tspan><tspan
+         dx="0 1.2800004"
+         id="tspan4160"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.10589218px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';letter-spacing:0px;fill:#666666"
+         y="984.31165"
+         x="181.28198"
+         sodipodi:role="line"> Robotics</tspan><tspan
+         id="tspan4162"
+         dx="1.2800004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.10589218px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';letter-spacing:0px"
+         y="1005.9963"
+         x="181.28198"
+         sodipodi:role="line" /></text>
+    <g
+       id="g4653"
+       transform="translate(1246,-293.01913)">
+      <ellipse
+         ry="80.27784"
+         rx="80.277786"
+         cy="1220.3813"
+         cx="-1153.323"
+         style="fill:#00e676;fill-opacity:1;stroke:none"
+         id="path3107-3" />
+      <g
+         id="g4668"
+         style="fill:#000000;fill-opacity:1">
+        <path
+           id="path3268-3-0-0"
+           d="m -1161.4306,1141.9197 c -0.4488,7.9191 -1.6386,41.3454 -5.8556,47.594 -2.8825,-1.4713 -8.6221,-10.4618 -8.6221,-10.4618 0,0 -17.8517,28.9796 -17.8517,42.4471 0,17.6767 11.3728,28.9882 27.1902,34.468 -4.6651,-3.6209 -10.9429,-11.3636 -10.9429,-18.6676 0,-13.8094 7.0325,-17.9484 10.6882,-32.9509 8.7819,7.6291 8.9785,17.9577 8.9785,17.9577 0,0 12.2681,-18.0794 8.9785,-40.4039 35.9141,31.4254 21.2721,64.8578 7.0061,74.6349 15.9142,-2.3236 28.908,-16.993 28.908,-35.3186 0,-26.9358 -13.5984,-46.9094 -48.4772,-79.2989 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1"
+           sodipodi:nodetypes="cccscsccccsc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="m -1199.7892,1263.312 c 4.6708,16.8686 21.7506,32.6275 21.7506,32.6275 -5.6583,-11.1575 -5.0511,-21.0692 -3.0171,-25.1082 2.0341,-4.039 79.0681,-3.6626 97.2821,-5.1516 0,0 -68.2595,-5.8758 -116.0156,-2.3677 z"
+           id="path3270-1-08-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cczcc" />
+      </g>
+    </g>
+  </g>
+</svg>
