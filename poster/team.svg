@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24in"
+   height="36in"
+   viewBox="0 0 2160 3240.0001"
+   id="svg3779"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="outreach.svg">
+  <defs
+     id="defs3781">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4164">
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:22.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4166"
+         width="990"
+         height="1350"
+         x="0"
+         y="630" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.38759927"
+     inkscape:cx="1100.3874"
+     inkscape:cy="2002.1156"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3789"
+       color="#9f9f9f"
+       opacity="0.1254902"
+       empcolor="#9f9f9f"
+       empopacity="0.25098039"
+       empspacing="12"
+       units="in"
+       spacingx="90"
+       spacingy="90.000003" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3784">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2187.6379)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#4d4d4d"
+       id="rect3791"
+       width="2160"
+       height="3240"
+       x="0"
+       y="-2187.6379" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#00e676;fill-opacity:1"
+       id="rect4301"
+       width="2160"
+       height="180"
+       x="0"
+       y="270" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:199.09757996px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.69999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="605.9801"
+       y="434.76114"
+       id="text4939"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4941"
+         x="605.9801"
+         y="434.76114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Big John';-inkscape-font-specification:'Big John';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">outreach</tspan></text>
+    <g
+       id="g5113">
+      <ellipse
+         id="ellipse4961"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         cx="315"
+         cy="360"
+         rx="225"
+         ry="225.00015" />
+      <ellipse
+         ry="210.88823"
+         rx="210.88812"
+         cy="360"
+         cx="315"
+         style="fill:#00e676;fill-opacity:1;stroke:none"
+         id="path3107-3" />
+      <g
+         transform="matrix(2.5519556,0,0,2.5519556,3248.2152,-2754.4678)"
+         id="g4668"
+         style="fill:#4d4d4d;fill-opacity:1">
+        <path
+           id="path3268-3-0-0"
+           d="m -1161.4306,1141.9197 c -0.4488,7.9191 -1.6386,41.3454 -5.8556,47.594 -2.8825,-1.4713 -8.6221,-10.4618 -8.6221,-10.4618 0,0 -17.8517,28.9796 -17.8517,42.4471 0,17.6767 11.3728,28.9882 27.1902,34.468 -4.6651,-3.6209 -10.9429,-11.3636 -10.9429,-18.6676 0,-13.8094 7.0325,-17.9484 10.6882,-32.9509 8.7819,7.6291 8.9785,17.9577 8.9785,17.9577 0,0 12.2681,-18.0794 8.9785,-40.4039 35.9141,31.4254 21.2721,64.8578 7.0061,74.6349 15.9142,-2.3236 28.908,-16.993 28.908,-35.3186 0,-26.9358 -13.5984,-46.9094 -48.4772,-79.2989 z"
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d;fill-opacity:1"
+           sodipodi:nodetypes="cccscsccccsc" />
+        <path
+           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           d="m -1199.7892,1263.312 c 4.6708,16.8686 21.7506,32.6275 21.7506,32.6275 -5.6583,-11.1575 -5.0511,-21.0692 -3.0171,-25.1082 2.0341,-4.039 79.0681,-3.6626 97.2821,-5.1516 0,0 -68.2595,-5.8758 -116.0156,-2.3677 z"
+           id="path3270-1-08-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cczcc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="182.43243"
+       y="802.7027"
+       id="text5120"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5122"
+         x="182.43243"
+         y="802.7027" /></text>
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00e676;stroke-width:26.22437286;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3348"
+       width="1226.5135"
+       height="1166.2756"
+       x="-328.37579"
+       y="721.86218"
+       clip-path="url(#clipPath4164)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:47.73814774px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="67.405647"
+       y="857.81903"
+       id="text3350"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3352"
+         x="67.405647"
+         y="857.81903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.41082764px;font-family:'Big John';-inkscape-font-specification:'Big John';fill:#ffffff">our school</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="90"
+       y="990"
+       id="text3354"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="90"
+         y="990"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1"
+         id="tspan4172">Centers of Learning is a private christian </tspan><tspan
+         sodipodi:role="line"
+         x="90"
+         y="1040"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1"
+         id="tspan4176">school in North Hills, CA. It has a total </tspan><tspan
+         sodipodi:role="line"
+         x="90"
+         y="1090"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1"
+         id="tspan4178">student body of just over 100.  </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3" />
+</svg>

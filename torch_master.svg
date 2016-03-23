@@ -1403,16 +1403,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85694748"
-     inkscape:cx="-961.25031"
-     inkscape:cy="154.69396"
+     inkscape:zoom="0.42847374"
+     inkscape:cx="-2089.9901"
+     inkscape:cy="-406.48483"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="737"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -1431,7 +1431,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2384,76 +2384,76 @@
        height="250"
        width="400"
        id="rect4694"
-       style="fill:#000000;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0,1,-1,0,0,0)" />
     <text
        sodipodi:linespacing="80.000001%"
        id="text4696"
-       y="1552.4901"
-       x="-1470"
-       style="font-style:normal;font-weight:normal;font-size:15.05882931px;line-height:80.00000119%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       y="1497.9379"
+       x="-1470.1605"
+       style="font-style:normal;font-weight:normal;font-size:9.1908884px;line-height:80.00000119%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.61033225"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.21178436px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
-         y="1552.4901"
-         x="-1457.8235"
-         id="tspan4698"
-         sodipodi:role="line">Team </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.21178436px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
-         y="1595.8595"
-         x="-1457.8235"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.08720016px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.61033225"
+         y="1497.9379"
+         x="-1470.1605"
          sodipodi:role="line"
-         id="tspan4700">Torch </tspan><tspan
-         dx="1.2800004"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.10589218px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
-         y="1625.676"
-         x="-1470"
-         sodipodi:role="line"
-         id="tspan4740">Robotics</tspan><tspan
+         id="tspan4740">Team</tspan><tspan
          id="tspan4704"
-         dx="1.2800004"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.10589218px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
-         y="1647.3607"
-         x="-1470"
+         dx="0.7812255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.54360008px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.61033225"
+         y="1524.4076"
+         x="-1470.1605"
          sodipodi:role="line" /></text>
-    <g
-       id="g4706"
-       transform="translate(-316.67695,199.6578)">
-      <ellipse
-         ry="80.27784"
-         rx="80.277786"
-         cy="1220.3813"
-         cx="-1153.323"
-         style="fill:#00e676;fill-opacity:1;stroke:none"
-         id="ellipse4708" />
-      <g
-         id="g4710"
-         style="fill:#000000;fill-opacity:1">
-        <path
-           id="path4712"
-           d="m -1161.4306,1141.9197 c -0.4488,7.9191 -1.6386,41.3454 -5.8556,47.594 -2.8825,-1.4713 -8.6221,-10.4618 -8.6221,-10.4618 0,0 -17.8517,28.9796 -17.8517,42.4471 0,17.6767 11.3728,28.9882 27.1902,34.468 -4.6651,-3.6209 -10.9429,-11.3636 -10.9429,-18.6676 0,-13.8094 7.0325,-17.9484 10.6882,-32.9509 8.7819,7.6291 8.9785,17.9577 8.9785,17.9577 0,0 12.2681,-18.0794 8.9785,-40.4039 35.9141,31.4254 21.2721,64.8578 7.0061,74.6349 15.9142,-2.3236 28.908,-16.993 28.908,-35.3186 0,-26.9358 -13.5984,-46.9094 -48.4772,-79.2989 z"
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1"
-           sodipodi:nodetypes="cccscsccccsc" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           d="m -1199.7892,1263.312 c 4.6708,16.8686 21.7506,32.6275 21.7506,32.6275 -5.6583,-11.1575 -5.0511,-21.0692 -3.0171,-25.1082 2.0341,-4.039 79.0681,-3.6626 97.2821,-5.1516 0,0 -68.2595,-5.8758 -116.0156,-2.3677 z"
-           id="path4714"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cczcc" />
-      </g>
-    </g>
     <text
        sodipodi:linespacing="125%"
        id="text3052-8-9-8"
-       y="1697.3524"
+       y="1557.3524"
        x="-1380.4856"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:123.17951965px;line-height:125%;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze Light';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#00e677;fill-opacity:1;stroke:none;enable-background:new"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:123.17951965px;line-height:125%;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze Light';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:none;fill-opacity:1;stroke:#000000;enable-background:new;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.90770721px;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze Bold';text-align:end;text-anchor:end;fill:#00e677;fill-opacity:1"
-         y="1697.3524"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.90770721px;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze Bold';text-align:end;text-anchor:end;fill:none;fill-opacity:1;stroke:#000000;"
+         y="1557.3524"
          x="-1380.4856"
          id="tspan3054-2-9-9"
          sodipodi:role="line">5942</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Devil Breeze';font-style:normal;font-weight:bold;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Devil Breeze, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion3777"><rect
+           id="rect3779"
+           width="250"
+           height="50"
+           x="-700"
+           y="1300" /></flowRegion><flowPara
+         id="flowPara3781"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3783"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Devil Breeze';font-style:normal;font-weight:bold;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Devil Breeze, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion3785"><rect
+           id="rect3787"
+           width="50"
+           height="50"
+           x="-550"
+           y="1400" /></flowRegion><flowPara
+         id="flowPara3789"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.1908884px;line-height:80.00000119%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.61033225"
+       x="-1470.1605"
+       y="1587.1777"
+       id="text3795"
+       sodipodi:linespacing="80.000001%"><tspan
+         id="tspan3797"
+         sodipodi:role="line"
+         x="-1470.1605"
+         y="1587.1777"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.08720016px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.61033225">Torch</tspan><tspan
+         sodipodi:role="line"
+         x="-1470.1605"
+         y="1613.6475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.54360008px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.61033225"
+         dx="0.7812255"
+         id="tspan3799" /></text>
   </g>
   <g
      id="g3357"
