@@ -1395,6 +1395,27 @@
          d="m 1000,2132.3623 a 240,240 0 1 1 -480,0 240,240 0 1 1 480,0 z"
          transform="matrix(0.55571086,0,0,0.55571086,337.65968,947.38524)" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4607">
+      <circle
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle4609"
+         cx="-1950"
+         cy="1402.3622"
+         r="173.92923" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5251">
+      <rect
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5253"
+         width="400"
+         height="150"
+         x="-2100"
+         y="502.36218" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1403,9 +1424,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85694748"
-     inkscape:cx="-961.25031"
-     inkscape:cy="154.69396"
+     inkscape:zoom="0.72499956"
+     inkscape:cx="-2336.3183"
+     inkscape:cy="604.62267"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1441,7 +1462,17 @@
      id="layer1"
      transform="translate(0,-52.362183)">
     <rect
-       style="fill:#ffd5d5;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#00e677;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4611"
+       width="300"
+       height="300"
+       x="-2100"
+       y="1252.3622"
+       inkscape:export-filename="/home/ta/Downloads/path3248-0.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#cccccc;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4762"
        width="477.01758"
        height="298.13599"
@@ -1752,7 +1783,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;fill:#ffffff;font-family:Devil Breeze;-inkscape-font-specification:Devil Breeze">torch</tspan></text>
     </g>
     <g
-       id="g3986"
+       id="g5393"
        transform="matrix(1.3333333,0,0,1.3333341,-222.88471,-333.66692)">
       <rect
          id="rect4153-4-7"
@@ -1760,19 +1791,16 @@
          width="300"
          y="739.52124"
          x="429.66354"
-         style="fill:#000000;display:inline" />
-      <path
-         sodipodi:type="arc"
+         style="display:inline;fill:#000000" />
+      <circle
+         r="103.77734"
+         cy="75.149109"
+         cx="16.10338"
          style="fill:#00e676;fill-opacity:1;stroke:none"
          id="path3107"
-         sodipodi:cx="16.10338"
-         sodipodi:cy="75.149109"
-         sodipodi:rx="103.77734"
-         sodipodi:ry="103.77734"
-         d="M 119.88072,75.149109 A 103.77734,103.77734 0 0 1 16.10338,178.92645 103.77734,103.77734 0 0 1 -87.673964,75.149109 103.77734,103.77734 0 0 1 16.10338,-28.628235 103.77734,103.77734 0 0 1 119.88072,75.149109 Z"
          transform="matrix(1.3277438,0,0,1.3277438,558.28239,789.74244)" />
       <g
-         style="fill:#000000;display:inline;enable-background:new"
+         style="display:inline;fill:#000000;enable-background:new"
          id="g4140"
          transform="matrix(1.6365971,0,0,1.6365971,496.92016,744.94198)">
         <path
@@ -2128,50 +2156,9 @@
          y="1305.9963"
          x="-1068.718"
          sodipodi:role="line" /></text>
-    <path
-       style="fill:#00e676;fill-opacity:1;stroke:none"
-       d="m -1873.5069,1052.6079 c -36.6048,0 -66.2826,29.6778 -66.2826,66.2826 0,36.6046 29.6778,66.271 66.2826,66.271 36.6047,-10e-5 66.2825,-29.6664 66.2825,-66.271 0,-36.6048 -29.6778,-66.2826 -66.2825,-66.2826 z m -6.3609,4.6901 c 27.3772,25.4232 38.0502,41.1068 38.0502,62.2492 0,14.3844 -10.1981,25.8901 -22.6896,27.7139 11.1978,-7.6742 22.6932,-33.907 -5.4967,-58.5735 2.5821,17.523 -7.0522,31.7124 -7.0522,31.7124 0,0 -0.1592,-8.1048 -7.0523,-14.0932 -2.8695,11.7759 -8.3891,15.0193 -8.3891,25.8586 0,5.7331 4.9346,11.8156 8.5963,14.6577 -12.4154,-4.3012 -21.3412,-13.1819 -21.3412,-27.0569 0,-10.571 14.0124,-33.3256 14.0124,-33.3256 0,0 4.5018,7.0613 6.7643,8.2161 3.31,-4.9046 4.2456,-31.1429 4.5979,-37.3587 z m -3.9295,94.4111 c 32.1813,-0.081 64.8767,2.7311 64.8767,2.7311 -14.2966,1.1686 -74.7574,0.8743 -76.354,4.0447 -1.5966,3.1703 -2.0675,10.9471 2.3738,19.7049 0,0 -13.4115,-12.3644 -17.0777,-25.6049 8.1998,-0.6024 17.1705,-0.853 26.1812,-0.8759 z"
-       id="path4166"
-       inkscape:export-filename="/home/ta/git/teamtorch5942.github.io/img/torch2.png"
-       inkscape:export-xdpi="75.099998"
-       inkscape:export-ydpi="75.099998"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.64821911px;line-height:80.00000119%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1200.4614"
-       y="1880.2526"
-       id="text4168"
-       sodipodi:linespacing="80.000001%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4170"
-         x="1200.4614"
-         y="1880.2526"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.13358688px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';letter-spacing:0px">Team Torch </tspan><tspan
-         sodipodi:role="line"
-         x="1200.4614"
-         y="1907.276"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.56679344px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';letter-spacing:0px;fill:#666666"
-         id="tspan4172"
-         dx="0 1.1600986"> Robotics</tspan><tspan
-         sodipodi:role="line"
-         x="1200.4614"
-         y="1926.9294"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.56679344px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';letter-spacing:0px"
-         dx="1.1600986"
-         id="tspan4174" /></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4176"
-       width="550"
-       height="200"
-       x="1034.4614"
-       y="1772.8873"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avenir;-inkscape-font-specification:Avenir"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:Avenir;-inkscape-font-specification:Avenir;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-672.44165"
        y="-208.6888"
        id="text4178"
@@ -2180,97 +2167,97 @@
          id="tspan4180"
          x="-672.44165"
          y="-208.6888"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Big John;-inkscape-font-specification:Big John">GUIDELINES</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Big John';-inkscape-font-specification:'Big John'">GUIDELINES</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-181.97005"
+         y="-182.00064"
          id="tspan4184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Team font is Big John. </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Team font is Big John. </tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-159.47005"
+         y="-159.50064"
          id="tspan4182"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">When possible, use Devil Breeze font for team numbers.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">When possible, use Devil Breeze font for team numbers.</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-136.97005"
+         y="-137.00064"
          id="tspan4186"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Download from behance / dafont.com.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Download from behance / dafont.com.</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-114.47005"
+         y="-114.50064"
          id="tspan4188"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Team Colors:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Team Colors:</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-91.970047"
+         y="-92.000641"
          id="tspan4190"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Green #00e676</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Green #00e676</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-69.470047"
+         y="-69.500641"
          id="tspan4194"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Black  #000000</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Black  #000000</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-46.970047"
+         y="-47.000645"
          id="tspan4196"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">White #ffffff</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">White #ffffff</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-24.470047"
+         y="-24.500645"
          id="tspan4192"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="-1.970047"
+         y="-2.0006442"
          id="tspan4198"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Text should always be White/Green on black or black on white. </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Text should always be White/Green on black or black on white. </tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="20.529953"
+         y="20.499355"
          id="tspan4226"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Never green on white or white on green.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Never green on white or white on green.</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="43.029953"
+         y="42.999355"
          id="tspan4232"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="65.529953"
+         y="65.499359"
          id="tspan4234"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Use Big John on headlines and Shirts and whatever.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Use Big John on headlines and Shirts and whatever.</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="88.029953"
+         y="87.999359"
          id="tspan4236"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Use a sans-serif font as body text. The actual one doesn't matter,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Use a sans-serif font as body text. The actual one doesn't matter,</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="110.52995"
+         y="110.49936"
          id="tspan4238"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="133.02995"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold"
-         id="tspan4240">but use Dosis if you want to be fancy.</tspan><tspan
+         y="132.99936"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
+         id="tspan4240">but use Ubuntu if you want to be fancy.</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="155.52995"
+         y="155.49936"
          id="tspan4202"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'" /><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="178.02995"
+         y="177.99936"
          id="tspan4204"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Shirts and web should have black backgrounds.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Shirts and web should have black backgrounds.</tspan><tspan
          sodipodi:role="line"
          x="-672.44165"
-         y="200.52995"
+         y="200.49936"
          id="tspan4218"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis Bold">Banners and prints/handouts should be white.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Banners and prints/handouts should be white.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Coolvetica;-inkscape-font-specification:Coolvetica"
@@ -2379,81 +2366,297 @@
       </g>
     </g>
     <rect
-       y="1345"
-       x="1327.3622"
-       height="250"
-       width="400"
-       id="rect4694"
-       style="fill:#000000;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0,1,-1,0,0,0)" />
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4588"
+       width="300"
+       height="300"
+       x="-2100"
+       y="1252.3622"
+       clip-path="url(#clipPath4607)"
+       inkscape:export-filename="/home/ta/Downloads/path3248-0.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       id="path3248-0"
+       d="m -1968.2757,1272.6413 c -1.0157,17.9251 -3.7089,93.5871 -13.2543,107.731 -6.5246,-3.3304 -19.5165,-23.6807 -19.5165,-23.6807 0,0 -40.4082,65.5965 -40.4082,96.0808 0,40.0121 25.743,65.6162 61.5464,78.02 -10.5599,-8.1962 -24.7697,-25.722 -24.7697,-42.2549 0,-31.2582 15.9183,-40.6272 24.1931,-74.586 19.8782,17.2687 20.3233,40.6481 20.3233,40.6481 0,0 27.7695,-40.9236 20.3234,-91.4559 81.2929,71.1325 48.1501,146.8085 15.8585,168.9393 36.0224,-5.2596 65.4344,-38.4644 65.4344,-79.9453 0,-60.9702 -30.7805,-106.1814 -109.7304,-179.4964 z"
+       inkscape:connector-curvature="0"
+       style="fill:#00e677;fill-opacity:1"
+       sodipodi:nodetypes="cccscsccccsc"
+       inkscape:export-filename="/home/ta/Downloads/path3248-0.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
     <text
-       sodipodi:linespacing="80.000001%"
-       id="text4696"
-       y="1552.4901"
-       x="-1470"
-       style="font-style:normal;font-weight:normal;font-size:15.05882931px;line-height:80.00000119%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.21178436px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
-         y="1552.4901"
-         x="-1457.8235"
-         id="tspan4698"
-         sodipodi:role="line">Team </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.21178436px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
-         y="1595.8595"
-         x="-1457.8235"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2252.6487"
+       y="1368.3931"
+       id="text4613"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         id="tspan4700">Torch </tspan><tspan
-         dx="1.2800004"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.10589218px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
-         y="1625.676"
-         x="-1470"
-         sodipodi:role="line"
-         id="tspan4740">Robotics</tspan><tspan
-         id="tspan4704"
-         dx="1.2800004"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.10589218px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
-         y="1647.3607"
-         x="-1470"
-         sodipodi:role="line" /></text>
+         id="tspan4615"
+         x="-2252.6487"
+         y="1368.3931">twitter logo</tspan></text>
     <g
-       id="g4706"
-       transform="translate(-316.67695,199.6578)">
+       id="g5263"
+       inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4153-4-7-0"
+         height="400.00024"
+         width="400"
+         y="252.36195"
+         x="-2100"
+         style="display:inline;fill:#333333;fill-opacity:1" />
       <ellipse
-         ry="80.27784"
-         rx="80.277786"
-         cy="1220.3813"
-         cx="-1153.323"
-         style="fill:#00e676;fill-opacity:1;stroke:none"
-         id="ellipse4708" />
+         ry="183.71974"
+         rx="183.71962"
+         cy="452.36203"
+         cx="-1900"
+         style="fill:#333333;fill-opacity:1;stroke:none"
+         id="path3107-6" />
+      <path
+         sodipodi:nodetypes="cccscsccccsc"
+         style="fill:#00e676;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m -1914.6501,284.79867 c -0.81,14.29351 -2.9575,74.62622 -10.569,85.90454 -5.2027,-2.65562 -15.5624,-18.88284 -15.5624,-18.88284 0,0 -32.2214,52.30647 -32.2214,76.61466 0,31.90555 20.5273,52.32215 49.0769,62.21297 -8.4204,-6.53563 -19.7513,-20.51077 -19.7513,-33.69404 0,-24.92521 12.6932,-32.39601 19.2915,-59.47472 15.8508,13.77008 16.2057,32.41275 16.2057,32.41275 0,0 22.1434,-32.63236 16.2059,-72.92681 64.8228,56.72101 38.3949,117.06486 12.6455,134.71191 28.7243,-4.19393 52.1773,-30.67139 52.1773,-63.74824 0,-48.61753 -24.5443,-84.66885 -87.4987,-143.13018 z"
+         id="path3268-3-0-1" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -1900,262.28746 c -104.9645,0 -190.0744,85.10998 -190.0744,190.07457 0,104.9646 85.1099,190.07463 190.0744,190.07463 104.9645,0 190.0745,-85.11003 190.0745,-190.07463 0,-104.96459 -85.11,-190.07457 -190.0745,-190.07457 z m 0,9.35952 c 99.8024,0 180.715,80.91265 180.715,180.71505 0,99.80241 -80.9126,180.71503 -180.715,180.71503 -99.8023,0 -180.7149,-80.91262 -180.7149,-180.71503 0,-99.8024 80.9126,-180.71505 180.7149,-180.71505 z"
+         id="path3877-2"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         clip-path="url(#clipPath5251)"
+         id="ellipse5247"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         cx="-1900"
+         cy="452.36203"
+         rx="183.71962"
+         ry="183.71974" />
+      <text
+         sodipodi:linespacing="0%"
+         id="text5255"
+         y="548.36218"
+         x="-1899.6451"
+         style="font-style:normal;font-weight:normal;font-size:46.68444443px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           dx="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:-3.67224574px;text-anchor:middle;fill:#333333;fill-opacity:1"
+           y="548.36218"
+           x="-1901.4812"
+           id="tspan5257"
+           sodipodi:role="line">TEAM TORCH</tspan></text>
+      <text
+         sodipodi:linespacing="0%"
+         id="text5259"
+         y="605.27954"
+         x="-1899.9954"
+         style="font-style:normal;font-weight:normal;font-size:13.31036949px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00e676;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.88977432px;line-height:0%;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00e676;fill-opacity:1"
+           y="605.27954"
+           x="-1899.9954"
+           id="tspan5261"
+           sodipodi:role="line">5942</tspan></text>
+    </g>
+    <g
+       id="g5494"
+       inkscape:export-filename="/home/ta/Downloads/button.png"
+       inkscape:export-xdpi="243"
+       inkscape:export-ydpi="243">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         style="display:inline;fill:#333333;fill-opacity:1"
+         x="-2500"
+         y="252.36195"
+         width="400"
+         height="400.00024"
+         id="rect5276" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         id="ellipse5278"
+         style="fill:#333333;fill-opacity:1;stroke:none"
+         cx="-2300"
+         cy="452.36203"
+         rx="183.71962"
+         ry="183.71974" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         id="path5280"
+         d="m -2315.9132,277.90211 c -0.8802,15.5324 -3.2138,81.0944 -11.485,93.35026 -5.6537,-2.8858 -16.9113,-20.51949 -16.9113,-20.51949 0,0 -35.0142,56.84009 -35.0142,83.25518 0,34.67094 22.3065,56.85713 53.3306,67.60523 -9.1502,-7.1021 -21.4632,-22.28852 -21.4632,-36.61444 0,-27.08559 13.7934,-35.20391 20.9635,-64.62966 17.2247,14.9636 17.6104,35.2221 17.6104,35.2221 0,0 24.0627,-35.46074 17.6105,-79.24768 70.4413,61.63726 41.7228,127.21137 13.7416,146.38797 31.2139,-4.55744 56.6997,-33.32981 56.6997,-69.27358 0,-52.83142 -26.6716,-92.00746 -95.0826,-155.53589 z"
+         inkscape:connector-curvature="0"
+         style="fill:#00e676;fill-opacity:1"
+         sodipodi:nodetypes="cccscsccccsc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         inkscape:connector-curvature="0"
+         id="path5282"
+         d="m -2300,262.28746 c -104.9645,0 -190.0744,85.10998 -190.0744,190.07457 0,104.9646 85.1099,190.07463 190.0744,190.07463 104.9645,0 190.0745,-85.11003 190.0745,-190.07463 0,-104.96459 -85.11,-190.07457 -190.0745,-190.07457 z m 0,9.35952 c 99.8024,0 180.715,80.91265 180.715,180.71505 0,99.80241 -80.9126,180.71503 -180.715,180.71503 -99.8023,0 -180.7149,-80.91262 -180.7149,-180.71503 0,-99.8024 80.9126,-180.71505 180.7149,-180.71505 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:46.68444443px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-2303.645"
+         y="546.36218"
+         id="text5286"
+         sodipodi:linespacing="0%"><tspan
+           sodipodi:role="line"
+           id="tspan5288"
+           x="-2305.4812"
+           y="546.36218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:-3.67224574px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           dx="0">TEAM TORCH</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.31036949px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00e676;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-2301.9954"
+         y="605.27954"
+         id="text5290"
+         sodipodi:linespacing="0%"><tspan
+           sodipodi:role="line"
+           id="tspan5292"
+           x="-2301.9954"
+           y="605.27954"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.88977432px;line-height:0%;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00e676;fill-opacity:1">5942</tspan></text>
+    </g>
+    <g
+       id="g5504">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         style="display:inline;fill:#333333;fill-opacity:1"
+         x="-2900"
+         y="252.36195"
+         width="400"
+         height="400.00024"
+         id="rect5305" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         ry="183.71974"
+         rx="183.71962"
+         id="path5307"
+         style="fill:#333333;fill-opacity:1;stroke:none"
+         cx="-2700"
+         cy="452.36203" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         id="path5311"
+         d="m -2718.2632,276.9366 c -1.0108,17.8373 -3.6908,93.12831 -13.1893,107.20286 -6.4927,-3.31403 -19.4208,-23.56447 -19.4208,-23.56447 0,0 -40.2101,65.27482 -40.2101,95.60974 0,39.81589 25.6167,65.29438 61.2445,77.63742 -10.508,-8.156 -24.6482,-25.59599 -24.6482,-42.0478 0,-31.10491 15.8403,-40.42795 24.0745,-74.22029 19.7807,17.18411 20.2236,40.44885 20.2236,40.44885 0,0 27.6334,-40.72289 20.2237,-91.00755 80.8944,70.78385 47.9142,146.08874 15.7808,168.11103 35.8459,-5.23372 65.1136,-38.27575 65.1136,-79.55334 0,-60.67128 -30.6296,-105.6608 -109.1923,-178.61645 z"
+         inkscape:connector-curvature="0"
+         style="fill:#00e676;fill-opacity:1"
+         sodipodi:nodetypes="cccscsccccsc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2806.34,550.61095 c 10.6892,38.6046 49.7772,74.66957 49.7772,74.66957 -12.9493,-25.53448 -11.5598,-48.21802 -6.9047,-57.46146 4.6551,-9.24346 180.9512,-8.38206 222.6346,-11.78955 0,0 -156.215,-13.44703 -265.5071,-5.41856 z"
+         id="path5313"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cczcc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         inkscape:connector-curvature="0"
+         id="path5315"
+         d="m -2700,262.28746 c -104.9645,0 -190.0744,85.10998 -190.0744,190.07457 0,104.9646 85.1099,190.07463 190.0744,190.07463 104.9645,0 190.0745,-85.11003 190.0745,-190.07463 0,-104.96459 -85.11,-190.07457 -190.0745,-190.07457 z m 0,9.35952 c 99.8024,0 180.715,80.91265 180.715,180.71505 0,99.80241 -80.9126,180.71503 -180.715,180.71503 -99.8023,0 -180.7149,-80.91262 -180.7149,-180.71503 0,-99.8024 80.9126,-180.71505 180.7149,-180.71505 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <g
-         id="g4710"
-         style="fill:#000000;fill-opacity:1">
-        <path
-           id="path4712"
-           d="m -1161.4306,1141.9197 c -0.4488,7.9191 -1.6386,41.3454 -5.8556,47.594 -2.8825,-1.4713 -8.6221,-10.4618 -8.6221,-10.4618 0,0 -17.8517,28.9796 -17.8517,42.4471 0,17.6767 11.3728,28.9882 27.1902,34.468 -4.6651,-3.6209 -10.9429,-11.3636 -10.9429,-18.6676 0,-13.8094 7.0325,-17.9484 10.6882,-32.9509 8.7819,7.6291 8.9785,17.9577 8.9785,17.9577 0,0 12.2681,-18.0794 8.9785,-40.4039 35.9141,31.4254 21.2721,64.8578 7.0061,74.6349 15.9142,-2.3236 28.908,-16.993 28.908,-35.3186 0,-26.9358 -13.5984,-46.9094 -48.4772,-79.2989 z"
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1"
-           sodipodi:nodetypes="cccscsccccsc" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           d="m -1199.7892,1263.312 c 4.6708,16.8686 21.7506,32.6275 21.7506,32.6275 -5.6583,-11.1575 -5.0511,-21.0692 -3.0171,-25.1082 2.0341,-4.039 79.0681,-3.6626 97.2821,-5.1516 0,0 -68.2595,-5.8758 -116.0156,-2.3677 z"
-           id="path4714"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cczcc" />
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+         id="g5476">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:13.31036949px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00e676;fill-opacity:1;stroke:#333333;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           x="-2699.9954"
+           y="605.27954"
+           id="text5364"
+           sodipodi:linespacing="0%"><tspan
+             sodipodi:role="line"
+             id="tspan5366"
+             x="-2699.9954"
+             y="605.27954"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.88977432px;line-height:0%;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00e676;fill-opacity:1;stroke:#333333;stroke-opacity:1;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">5942</tspan></text>
+        <text
+           sodipodi:linespacing="0%"
+           id="text5372"
+           y="605.27954"
+           x="-2699.9954"
+           style="font-style:normal;font-weight:normal;font-size:13.31036949px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00e676;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.88977432px;line-height:0%;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00e676;fill-opacity:1"
+             y="605.27954"
+             x="-2699.9954"
+             id="tspan5374"
+             sodipodi:role="line">5942</tspan></text>
+      </g>
+      <g
+         id="g5384">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+           sodipodi:linespacing="0%"
+           id="text5368"
+           y="544.36218"
+           x="-2703.645"
+           style="font-style:normal;font-weight:normal;font-size:46.68444443px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:7.80000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             dx="0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:-3.67224574px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:7.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="544.36218"
+             x="-2705.4812"
+             id="tspan5370"
+             sodipodi:role="line">TEAM TORCH</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:46.68444443px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2703.645"
+           y="544.36218"
+           id="text5360"
+           sodipodi:linespacing="0%"><tspan
+             sodipodi:role="line"
+             id="tspan5362"
+             x="-2705.4812"
+             y="544.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:-3.67224574px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             dx="0">TEAM TORCH</tspan></text>
+        <circle
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/ta/Downloads/buttosn.png"
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path5382"
+           cx="-2664.8291"
+           cy="525.18945"
+           r="6.8965559" />
       </g>
     </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3052-8-9-8"
-       y="1697.3524"
-       x="-1380.4856"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:123.17951965px;line-height:125%;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze Light';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#00e677;fill-opacity:1;stroke:none;enable-background:new"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.90770721px;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze Bold';text-align:end;text-anchor:end;fill:#00e677;fill-opacity:1"
-         y="1697.3524"
-         x="-1380.4856"
-         id="tspan3054-2-9-9"
-         sodipodi:role="line">5942</tspan></text>
   </g>
   <g
      id="g3357"
