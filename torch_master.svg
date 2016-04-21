@@ -1424,15 +1424,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-<<<<<<< HEAD
      inkscape:zoom="0.72499956"
      inkscape:cx="-2336.3183"
      inkscape:cy="604.62267"
-=======
-     inkscape:zoom="0.42847374"
-     inkscape:cx="-2089.9901"
-     inkscape:cy="-406.48483"
->>>>>>> 74bf8d52fa5cf72b237c039e2c4f0e0b4e0c1d0b
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2664,83 +2658,6 @@
            r="6.8965559" />
       </g>
     </g>
-=======
-       y="1345"
-       x="1327.3622"
-       height="250"
-       width="400"
-       id="rect4694"
-       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <text
-       sodipodi:linespacing="80.000001%"
-       id="text4696"
-       y="1497.9379"
-       x="-1470.1605"
-       style="font-style:normal;font-weight:normal;font-size:9.1908884px;line-height:80.00000119%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.61033225"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.08720016px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.61033225"
-         y="1497.9379"
-         x="-1470.1605"
-         sodipodi:role="line"
-         id="tspan4740">Team</tspan><tspan
-         id="tspan4704"
-         dx="0.7812255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.54360008px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.61033225"
-         y="1524.4076"
-         x="-1470.1605"
-         sodipodi:role="line" /></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3052-8-9-8"
-       y="1557.3524"
-       x="-1380.4856"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:123.17951965px;line-height:125%;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze Light';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:none;fill-opacity:1;stroke:#000000;enable-background:new;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.90770721px;font-family:'Devil Breeze';-inkscape-font-specification:'Devil Breeze Bold';text-align:end;text-anchor:end;fill:none;fill-opacity:1;stroke:#000000;"
-         y="1557.3524"
-         x="-1380.4856"
-         id="tspan3054-2-9-9"
-         sodipodi:role="line">5942</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3775"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Devil Breeze';font-style:normal;font-weight:bold;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Devil Breeze, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-         id="flowRegion3777"><rect
-           id="rect3779"
-           width="250"
-           height="50"
-           x="-700"
-           y="1300" /></flowRegion><flowPara
-         id="flowPara3781"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3783"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Devil Breeze';font-style:normal;font-weight:bold;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Devil Breeze, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-         id="flowRegion3785"><rect
-           id="rect3787"
-           width="50"
-           height="50"
-           x="-550"
-           y="1400" /></flowRegion><flowPara
-         id="flowPara3789"></flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.1908884px;line-height:80.00000119%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.61033225"
-       x="-1470.1605"
-       y="1587.1777"
-       id="text3795"
-       sodipodi:linespacing="80.000001%"><tspan
-         id="tspan3797"
-         sodipodi:role="line"
-         x="-1470.1605"
-         y="1587.1777"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.08720016px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.61033225">Torch</tspan><tspan
-         sodipodi:role="line"
-         x="-1470.1605"
-         y="1613.6475"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.54360008px;line-height:80.00000119%;font-family:'Big John';-inkscape-font-specification:'Big John';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.61033225"
-         dx="0.7812255"
-         id="tspan3799" /></text>
->>>>>>> 74bf8d52fa5cf72b237c039e2c4f0e0b4e0c1d0b
   </g>
   <g
      id="g3357"

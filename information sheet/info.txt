@@ -4,7 +4,7 @@ Our Mission
 As a team, we are a shining light for others. We believe the best way to improve is by helping others. Whether outreaching to our school and community or connecting with other teams, we strive to be an example of gracious professionalism for others. 
 
 Our Robot
-We started the season with a robust hanging mechanism that brought us to 
+Our robot features a robust hanging mechanism as well as a block collector that can score in the low and mid goals. We also have a fast and highly configurable autonomous that can start from multiple positions and score 2 climbers, with optional defensive plays. In end game, we can hang reliably and hit 3 triggers. 
 
 sConnect with us
 facebook.com/teamtorch5942
