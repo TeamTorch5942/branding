@@ -52,18 +52,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9861111"
-     inkscape:cx="187.87249"
-     inkscape:cy="115.07923"
+     inkscape:zoom="2.1180555"
+     inkscape:cx="171"
+     inkscape:cy="144"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1366"
-     inkscape:window-height="700"
+     inkscape:window-height="735"
      inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,25 +117,25 @@
     <image
        sodipodi:absref="/home/ta/git/branding/program book/bot.jpg"
        xlink:href="bot.jpg"
-       transform="matrix(0.29399671,0,0,0.29399671,-107.76316,658.84993)"
-       clip-path="url(#clipPath3670)"
-       width="491.3811"
-       height="873.56641"
-       preserveAspectRatio="none"
-       id="image3665"
+       y="176.78177"
        x="366.54547"
-       y="176.78177" />
+       id="image3665"
+       preserveAspectRatio="none"
+       height="873.56641"
+       width="491.3811"
+       clip-path="url(#clipPath3670)"
+       transform="matrix(0.29399671,0,0,0.29399671,-107.76316,658.84993)" />
     <image
        sodipodi:absref="/home/ta/git/branding/program book/team.jpg"
        xlink:href="team.jpg"
-       transform="matrix(0.27272726,0,0,0.27272726,170.18183,619.27736)"
-       clip-path="url(#clipPath3738)"
-       width="1944"
-       height="1094"
-       preserveAspectRatio="none"
-       id="image3733"
+       y="355.11926"
        x="-626.65497"
-       y="355.11926" />
+       id="image3733"
+       preserveAspectRatio="none"
+       height="1094"
+       width="1944"
+       clip-path="url(#clipPath3738)"
+       transform="matrix(0.27272726,0,0,0.27272726,170.18183,619.27736)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.03372383px;line-height:110.00000238%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -357,6 +357,6 @@
          sodipodi:role="line"
          id="tspan4421"
          x="102.18555"
-         y="987.41107"> </tspan></text>
+         y="987.41107" /></text>
   </g>
 </svg>
